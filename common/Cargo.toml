@@ -1,0 +1,8 @@
+[workspace]
+members = [ "uniffi-bindgen-swift", "calendarcore" , "uniffi-bindgen"]
+resolver = "3"
+
+[workspace.dependencies]
+uniffi = "0.29.4"
+
+
